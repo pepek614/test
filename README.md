@@ -10,7 +10,11 @@ _**test**_
 | test | test | test |
 
 
+<<<<<<< Updated upstream
 ```json
+=======
+```json ss
+>>>>>>> Stashed changes
 {
     
     "tekst": tekst"
