@@ -10,9 +10,8 @@ _**test**_
 | test | test | test |
 
 
+```json ss
 
-```json 1 zmianafdfssdf
->>>>>>> Stashed changes
 {
     
     "tekst": tekst"
